@@ -1,0 +1,140 @@
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/obj/Debug/net8.0/ImportData.csproj.AssemblyReference.cache
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/obj/Debug/net8.0/ImportData.GeneratedMSBuildEditorConfig.editorconfig
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/obj/Debug/net8.0/ImportData.AssemblyInfoInputs.cache
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/obj/Debug/net8.0/ImportData.AssemblyInfo.cs
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/obj/Debug/net8.0/ImportData.csproj.CoreCompileInputs.cache
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/ImportData.exe
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/ImportData.deps.json
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/ImportData.runtimeconfig.json
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/ImportData.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/ImportData.pdb
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/Azure.Core.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/Azure.Identity.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/System.Data.SqlClient.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/System.Diagnostics.EventLog.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/System.Memory.Data.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/System.Runtime.Caching.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/de/Microsoft.Data.SqlClient.resources.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/es/Microsoft.Data.SqlClient.resources.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/fr/Microsoft.Data.SqlClient.resources.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/it/Microsoft.Data.SqlClient.resources.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/ja/Microsoft.Data.SqlClient.resources.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/ko/Microsoft.Data.SqlClient.resources.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/pt-BR/Microsoft.Data.SqlClient.resources.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/ru/Microsoft.Data.SqlClient.resources.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/zh-Hans/Microsoft.Data.SqlClient.resources.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/zh-Hant/Microsoft.Data.SqlClient.resources.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/runtimes/unix/lib/net8.0/Microsoft.Data.SqlClient.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/runtimes/win/lib/net8.0/Microsoft.Data.SqlClient.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/runtimes/win-arm64/native/sni.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/runtimes/win-x64/native/sni.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/runtimes/win-x86/native/sni.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Diagnostics.EventLog.Messages.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Diagnostics.EventLog.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Runtime.Caching.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/obj/Debug/net8.0/ImportData.csproj.Up2Date
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/obj/Debug/net8.0/ImportData.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/obj/Debug/net8.0/refint/ImportData.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/obj/Debug/net8.0/ImportData.pdb
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/obj/Debug/net8.0/ImportData.genruntimeconfig.cache
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/obj/Debug/net8.0/ref/ImportData.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/ClosedXML.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/ClosedXML.Report.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/DocumentFormat.OpenXml.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/ExcelNumberFormat.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/Irony.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/MoreLinq.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/SixLabors.Fonts.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/System.IO.Packaging.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/System.Linq.Dynamic.Core.dll
+D:/BAI TAP CUA HUYDZCO102/ttap 1 sql/ImportData/ImportData/ImportData/bin/Debug/net8.0/XLParser.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/ImportData
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/ImportData.deps.json
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/ImportData.runtimeconfig.json
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/ImportData.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/ImportData.pdb
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/Azure.Core.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/Azure.Identity.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/ClosedXML.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/ClosedXML.Report.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/DocumentFormat.OpenXml.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/ExcelNumberFormat.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/Irony.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/MoreLinq.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/SixLabors.Fonts.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/System.Data.SqlClient.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/System.Diagnostics.EventLog.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/System.IO.Packaging.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/System.Linq.Dynamic.Core.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/XLParser.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/de/Microsoft.Data.SqlClient.resources.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/es/Microsoft.Data.SqlClient.resources.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/fr/Microsoft.Data.SqlClient.resources.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/it/Microsoft.Data.SqlClient.resources.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/ja/Microsoft.Data.SqlClient.resources.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/ko/Microsoft.Data.SqlClient.resources.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/pt-BR/Microsoft.Data.SqlClient.resources.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/ru/Microsoft.Data.SqlClient.resources.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/zh-Hans/Microsoft.Data.SqlClient.resources.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/zh-Hant/Microsoft.Data.SqlClient.resources.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/runtimes/unix/lib/net8.0/Microsoft.Data.SqlClient.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/runtimes/win/lib/net8.0/Microsoft.Data.SqlClient.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/runtimes/win-arm64/native/sni.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/runtimes/win-x64/native/sni.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/runtimes/win-x86/native/sni.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Diagnostics.EventLog.Messages.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Diagnostics.EventLog.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Runtime.Caching.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/obj/Debug/net8.0/ImportData.csproj.AssemblyReference.cache
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/obj/Debug/net8.0/ImportData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/obj/Debug/net8.0/ImportData.AssemblyInfoInputs.cache
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/obj/Debug/net8.0/ImportData.AssemblyInfo.cs
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/obj/Debug/net8.0/ImportData.csproj.CoreCompileInputs.cache
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/obj/Debug/net8.0/ImportData.csproj.Up2Date
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/obj/Debug/net8.0/ImportData.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/obj/Debug/net8.0/refint/ImportData.dll
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/obj/Debug/net8.0/ImportData.pdb
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/obj/Debug/net8.0/ImportData.genruntimeconfig.cache
+/Users/bunny/Documents/Thuctap1/ImportData/ImportData/obj/Debug/net8.0/ref/ImportData.dll
