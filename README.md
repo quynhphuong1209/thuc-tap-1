@@ -1,6 +1,6 @@
 # 📘 Báo Cáo Thực Tập - Nhóm 4
 
-**📅 Thời gian thực hiện**: 2025  
+**📅 Thời gian thực hiện**: 2024  
 **👩‍💻 Sinh viên thực hiện**: Đinh Lê Quỳnh Phương và Nhóm 4  
 **🏫 Trường**: Đại học Y tế Công cộng  
 **💼 Chủ đề**: Hệ thống quản lý thông tin hộ dân – thực hành cơ sở dữ liệu & phân tích dữ liệu bằng Power BI, SQL Server và C#
